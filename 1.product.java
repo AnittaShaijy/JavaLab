@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-class Q1_Product {
+class Product {
     int pcode;
     String pname;
     Float price;
